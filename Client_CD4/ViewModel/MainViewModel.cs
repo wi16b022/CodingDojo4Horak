@@ -80,6 +80,8 @@ namespace Client_CD4.ViewModel
                 MessagesReceived.Add(message);
             });
         }
+
+        //TEST COMMIT GITHUB
     } 
     
 }
